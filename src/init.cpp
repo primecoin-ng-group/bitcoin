@@ -1700,8 +1700,8 @@ bool AppInitMain()
     connOptions.m_added_nodes.push_back("89.179.119.195");
     connOptions.m_added_nodes.push_back("51.38.36.126");
     connOptions.m_added_nodes.push_back("194.87.96.132");
-    connOptions.m_added_nodes.push_back("46.101.219.111");
-    connOptions.m_added_nodes.push_back("192.241.151.110");
+    connOptions.m_added_nodes.push_back("142.93.79.172");
+    connOptions.m_added_nodes.push_back("178.128.156.89");
 
     connOptions.nMaxOutboundTimeframe = nMaxOutboundTimeframe;
     connOptions.nMaxOutboundLimit = nMaxOutboundLimit;
